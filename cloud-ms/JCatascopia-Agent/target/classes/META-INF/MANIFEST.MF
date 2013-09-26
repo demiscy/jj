@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: dtrihinas1
+Build-Jdk: 1.6.0_45
+Package: eu.celarcloud.celar_ms.AgentPack
+Class-Path: lib/jeromq-0.2.0.jar
+Main-Class: eu.celarcloud.celar_ms.AgentPack.MonitoringAgent
+Created-By: Maven Integration for Eclipse
+
